@@ -1,0 +1,1 @@
+#Script ini untuk menghandle logic dari speech to text
